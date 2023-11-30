@@ -4,6 +4,15 @@ Welcome to the Python Programming Core-Overview Learning Journey repository! üê
 ## Overview
 This comprehensive guide is designed for beginners to advance their skills in Python programming. Explore the following units to master key concepts, from Python basics to machine learning.
 
+## Prerequisites
+
+Before starting this learning journey, it's recommended to have a basic understanding of the following:
+
+- Basic understanding of programming concepts
+- Familiarity with any programming language (not necessarily Python)
+- Text editor or integrated development environment (IDE) for coding (e.g., VSCode, PyCharm)
+- Python installed on your machine (latest version recommended)
+
 ## Table of Contents
 
 1. **Unit I: Python Basics**
