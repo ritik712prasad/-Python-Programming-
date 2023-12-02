@@ -1,8 +1,11 @@
 # -Python-Programming-Core-Overview
 Welcome to the Python Programming Core-Overview Learning Journey repository! 🐍✨
 
+## Acknowledgment
+I explored various resources to successfully navigate my learning journey of Python. I visited multiple websites, referred to notes from Durga Software Solutions, sought guidance from my college professor, and these combined efforts significantly contributed to a smoother and faster learning experience. I express my gratitude to all those who have been instrumental in supporting my learning process.
+
 ## Overview
-This comprehensive guide is designed for beginners to advance their skills in Python programming. Explore the following units to master key concepts, from Python basics to machine learning.
+This comprehensive guide is designed for beginners to advance their skills in Python programming. Explore the following units to master key concepts, from Python basics to machine learning. I have gathered a variety of documented notes from different sources to enhance the quality.
 
 ## Prerequisites
 
